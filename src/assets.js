@@ -17,7 +17,6 @@ import image68 from "./image/t-shirt-17.jpeg";
 import image5 from "./image/t-shirt-10.jpeg";
 import image69 from "./image/t-shirt-11.jpeg";
 import image70 from "./image/t-shirt-14.jpeg";
-import image71 from "./image/t-shirt-1.jpeg";
 
 import image6 from "./image/t-shirt-18.jpeg";
 import image7 from "./image/t-shirt-9.jpeg";
@@ -154,7 +153,7 @@ export const products = [
     name: "Men wears",
     description:
       "Stay classic with this sleek V-neck t-shirt, a timeless piece that pairs seamlessly with any outfit.",
-    image: [image5, image69, image70, image71],
+    image: [image5, image69, image70, image70],
     category: "male",
     subCategory: "topwear",
     sizes: ["M", "S", "L", "XL", "XXL"],
